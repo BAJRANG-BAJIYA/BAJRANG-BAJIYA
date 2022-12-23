@@ -13,10 +13,29 @@ In short ,Tech enthusiast with passion for web development.
 - 💬 Ask me about Front end technologies and Frameworks.
 - 📫 How to reach me: My email: bajiya.bajrang17@gmail.com
 - ⚡ Fun fact: Pretty good with learning new technologies.
-- My profile views :
+- ⚡ Something funny?
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
-<br>
+---
+
+<h2> Connect with me:</h2>
+<a href="https://twitter.com/baji_bajrang" target="_blank"><img align="left" alt="Bajrang | Twitter" src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://www.linkedin.com/in/bajrang-bajiya-094/" target="_blank"><img align="left" alt="Bajrang | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.instagram.com/bajrang.bajiya/" target="_blank"><img align="left" alt="Bajrang | Instagram" src="https://skillicons.dev/icons?i=instagram" /></a>
+<br />
+<br/>
+<hr>
+
+## 🚀 Languages and Tools:
+<img align="left" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass,nodejs,express,git,github,vscode" />
+<br />
+<br />
+
+
+
+
 <hr>
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
@@ -46,7 +65,7 @@ In short ,Tech enthusiast with passion for web development.
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 <br>
-<br>
+<br />
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
