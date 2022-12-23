@@ -15,21 +15,41 @@ In short ,Tech enthusiast with passion for web development.
 - ⚡ Fun fact: Pretty good with learning new technologies.
 - My profile views :
 
-<table style="width:100%">
+<!-- <table style="width:100%">
   <tr>
     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajrang-bajiya&layout=compact&hide=Ruby" /></th>
-    
   </tr>
 </table>
+ -->
 
-<h2>📊 Github Stats</h2>
-<a href='https://github.com/bajrang-bajiya/github-stats-transparent'></a>
-
-[![Bajrang's github stats](https://github-readme-stats.vercel.app/api?username=bajrang-bajiya&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bajrang-bajiya&theme=neon-palenight)](https://git.io/streak-stats)
+<!-- <h2>📊 Github Stats</h2> -->
 <br>
+<hr>
+<p align="center">
+  <img height="150" width="150" src="WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bajrang-bajiya&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="WEBP/right.webp">
+</p>
+<br>
+<hr>
 
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br/>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bajrang-bajiya&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajrang-bajiya&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
+<br/>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=bajrang-bajiya&theme=react-dark&hide_border=true&area=true)
+
+<br>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
