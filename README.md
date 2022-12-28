@@ -7,7 +7,7 @@
 In short ,Tech enthusiast with passion for web development.
 
 - 🔭 I’m currently working with Deltra Soft Technologies.
-- 🌱 I’m currently learning Full Stack Web Development.
+- 🌱 I’m currently learning back-end Development.
 - 👯 I’m looking to collaborate with other developers in the community.
 - 🤔 I’m looking for help with Backend development.
 - 💬 Ask me about Front end technologies and Frameworks.
