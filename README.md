@@ -9,7 +9,7 @@ In short ,Tech enthusiast with passion for web development.
 - 🔭 I’m currently working with Deltra Soft Technologies.
 - 🌱 I’m currently learning back-end Development.
 - 👯 I’m looking to collaborate with other developers in the community.
-- 🤔 I’m looking for help with Backend development.
+- 🤔 I’m looking for help to learn Backend development.
 - 💬 Ask me about Front end technologies and Frameworks.
 - 📫 How to reach me: My email: bajiya.bajrang17@gmail.com
 - ⚡ Fun fact: Pretty good with learning new technologies.
