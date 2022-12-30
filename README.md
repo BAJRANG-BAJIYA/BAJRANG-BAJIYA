@@ -12,7 +12,7 @@ In short ,Tech enthusiast with passion for web development.
 - 🤔 I’m looking for help to learn Backend development.
 - 💬 Ask me about Front end technologies and Frameworks.
 - 📫 How to reach me: My email: bajiya.bajrang17@gmail.com
-- ⚡ Fun fact: Pretty good with learning new technologies.
+- ⚡ Funny fact: Pretty good with learning new technologies.
 - ⚡ Something funny?
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
