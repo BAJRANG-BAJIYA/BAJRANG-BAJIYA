@@ -6,7 +6,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 In short ,Tech enthusiast with passion for web development.
 
-- 🔭 I’m currently working with DEZN.
+- 🔭 I’m currently working with DAZN.
 - 🌱 I’m currently learning back-end Development.
 - 👯 I’m looking for new opportunities in IT.
 - 🤔 I’m looking for help to learn Backend development.
